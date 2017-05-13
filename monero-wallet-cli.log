@@ -1,0 +1,68 @@
+2017-05-12 12:14:46.406	1172	INFO 	global	contrib/epee/src/mlog.cpp:145	New log categories: *:WARNING,net:FATAL,net.p2p:FATAL,net.cn:FATAL,global:INFO,verify:FATAL,stacktrace:INFO
+2017-05-12 12:14:52.437	1172	INFO 	global	src/simplewallet/simplewallet.cpp:179	No wallet found with that name. Confirm creation of new wallet named: binhminhcc1990
+2017-05-12 12:15:02.890	1172	INFO 	global	src/simplewallet/simplewallet.cpp:179	Generating new wallet...
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'asa' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'ave' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'boa' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'cal' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'dar' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'don' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'dos' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'eco' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'eje' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'fax' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'feo' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'fin' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'gen' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'gol' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'haz' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'ira' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'luz' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'mar' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'mes' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'mil' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'oca' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'ojo' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'ola' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'oro' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'oso' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'pan' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'pez' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'pie' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'red' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'res' is shorter than its prefix length, 4
+2017-05-12 12:15:15.046	1172	WARN 	default	src/mnemonics/language_base.h:101	Spanish word 'rey' is shorter than its prefix length, 4
+2017-05-12 12:15:18.078	1172	INFO 	global	src/simplewallet/simplewallet.cpp:179	Generated new wallet: 44v3ExEBjhk4tnpQ3K9PNCGoFZsshbQ5gMqbywKe17U35Jq7jBZoqc3Xkz9EEEyzThRBfDmzFcj32MWawST7NAZR3if3LzP
+2017-05-12 12:15:18.078	1172	INFO 	global	src/simplewallet/simplewallet.cpp:179	**********************************************************************
+Your wallet has been generated!
+To start synchronizing with the daemon, use "refresh" command.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing monero-wallet-cli to save your
+current session's state. Otherwise, you might need to synchronize 
+your wallet again (your wallet keys are NOT at risk in any case).
+
+2017-05-12 12:15:18.078	1172	INFO 	global	src/simplewallet/simplewallet.cpp:179	
+PLEASE NOTE: the following 25 words can be used to recover access to your wallet. Please write them down and store them somewhere safe and secure. Please do not store them in your email or on file storage services outside of your immediate control.
+
+2017-05-12 12:15:18.078	1172	INFO 	global	src/simplewallet/simplewallet.cpp:179	**********************************************************************
+2017-05-12 12:15:18.171	1172	INFO 	global	src/simplewallet/simplewallet.cpp:179	Starting refresh...
+2017-05-13 17:09:20.234	3680	INFO 	global	contrib/epee/src/mlog.cpp:145	New log categories: *:WARNING,net:FATAL,net.p2p:FATAL,net.cn:FATAL,global:INFO,verify:FATAL,stacktrace:INFO
+2017-05-13 17:09:27.125	3680	INFO 	global	src/simplewallet/simplewallet.cpp:179	Wallet and key files found, loading...
+2017-05-13 17:09:31.968	3680	WARN 	wallet.wallet2	src/wallet/wallet2.cpp:2413	Loaded wallet keys file, with public address: 44v3ExEBjhk4tnpQ3K9PNCGoFZsshbQ5gMqbywKe17U35Jq7jBZoqc3Xkz9EEEyzThRBfDmzFcj32MWawST7NAZR3if3LzP
+2017-05-13 17:09:32.093	3680	INFO 	global	src/simplewallet/simplewallet.cpp:179	Opened wallet: 44v3ExEBjhk4tnpQ3K9PNCGoFZsshbQ5gMqbywKe17U35Jq7jBZoqc3Xkz9EEEyzThRBfDmzFcj32MWawST7NAZR3if3LzP
+2017-05-13 17:09:32.093	3680	INFO 	global	src/simplewallet/simplewallet.cpp:179	**********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-05-13 17:09:32.421	3680	INFO 	global	src/simplewallet/simplewallet.cpp:179	Starting refresh...
+2017-05-13 19:02:39.843	260	INFO 	global	src/common/util.h:155	[1;31mGot control signal 2. Exiting without saving...[0m
+2017-05-13 19:16:06.765	2444	INFO 	global	contrib/epee/src/mlog.cpp:145	New log categories: *:WARNING,net:FATAL,net.p2p:FATAL,net.cn:FATAL,global:INFO,verify:FATAL,stacktrace:INFO
+2017-05-13 19:16:12.390	2444	INFO 	global	src/simplewallet/simplewallet.cpp:179	Wallet and key files found, loading...
+2017-05-13 19:16:15.328	2444	WARN 	wallet.wallet2	src/wallet/wallet2.cpp:2413	Loaded wallet keys file, with public address: 44v3ExEBjhk4tnpQ3K9PNCGoFZsshbQ5gMqbywKe17U35Jq7jBZoqc3Xkz9EEEyzThRBfDmzFcj32MWawST7NAZR3if3LzP
+2017-05-13 19:16:15.468	2444	INFO 	global	src/simplewallet/simplewallet.cpp:179	Opened wallet: 44v3ExEBjhk4tnpQ3K9PNCGoFZsshbQ5gMqbywKe17U35Jq7jBZoqc3Xkz9EEEyzThRBfDmzFcj32MWawST7NAZR3if3LzP
+2017-05-13 19:16:15.468	2444	INFO 	global	src/simplewallet/simplewallet.cpp:179	**********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-05-13 19:16:16.453	2444	ERROR	global	src/simplewallet/simplewallet.cpp:179	Error: wallet failed to connect to daemon: http://localhost:18081. Daemon either is not started or wrong port was passed. Please make sure daemon is running or restart the wallet with the correct daemon address.
+2017-05-13 19:16:17.468	2444	ERROR	global	src/simplewallet/simplewallet.cpp:179	Error: wallet failed to connect to daemon: http://localhost:18081. Daemon either is not started or wrong port was passed. Please make sure daemon is running or restart the wallet with the correct daemon address.
+2017-05-13 19:16:17.468	2444	INFO 	global	src/simplewallet/simplewallet.cpp:179	Background refresh thread started
+2017-05-13 19:21:33.828	2448	INFO 	global	src/common/util.h:155	[1;31mGot control signal 2. Exiting without saving...[0m
